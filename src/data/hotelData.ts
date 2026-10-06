@@ -49,7 +49,7 @@ export const ROOMS_DATA: Room[] = [
     category: "Standard",
     priceRM: 148,
     originalPriceRM: 180,
-    image: "/src/assets/images/room_standard_malaysian_1791284301420.jpg",
+    image: "/assets/images/room_standard_malaysian_1791284301420.jpg",
     capacity: "2 Adults",
     bedType: "1 Queen Bed",
     sizeM2: 24,
@@ -72,7 +72,7 @@ export const ROOMS_DATA: Room[] = [
     category: "Deluxe",
     priceRM: 198,
     originalPriceRM: 240,
-    image: "/src/assets/images/room_deluxe_malaysian_1791284144660.jpg",
+    image: "/assets/images/room_deluxe_malaysian_1791284144660.jpg",
     capacity: "2 Adults",
     bedType: "1 King Bed",
     sizeM2: 32,
@@ -95,7 +95,7 @@ export const ROOMS_DATA: Room[] = [
     category: "Executive",
     priceRM: 288,
     originalPriceRM: 350,
-    image: "/src/assets/images/room_executive_malaysian_1791284163283.jpg",
+    image: "/assets/images/room_executive_malaysian_1791284163283.jpg",
     capacity: "2 Adults, 1 Child",
     bedType: "1 Super King Bed",
     sizeM2: 48,
@@ -118,7 +118,7 @@ export const ROOMS_DATA: Room[] = [
     category: "Family",
     priceRM: 320,
     originalPriceRM: 390,
-    image: "/src/assets/images/room_family_malaysian_1791284314630.jpg",
+    image: "/assets/images/room_family_malaysian_1791284314630.jpg",
     capacity: "4 Adults / Family",
     bedType: "2 Queen Beds",
     sizeM2: 56,
@@ -144,7 +144,7 @@ export const FACILITIES_DATA: Facility[] = [
     shortDesc: "Complimentary ultra-fast optical fiber connectivity throughout the hotel.",
     fullDesc: "Stay seamlessly connected whether you are streaming, working remotely, or video calling loved ones. Optical fiber network covers all guest rooms and public lounges.",
     iconName: "Wifi",
-    image: "/src/assets/images/dmetro_lobby_malaysian_1791284119512.jpg",
+    image: "/assets/images/dmetro_lobby_malaysian_1791284119512.jpg",
     hours: "24 / 7 Available",
     highlights: ["100Mbps High Speed", "Seamless Coverage in All Rooms", "Secure Private Guests Network"]
   },
@@ -154,7 +154,7 @@ export const FACILITIES_DATA: Facility[] = [
     shortDesc: "Well-lit private parking bays with 24-hour security CCTV surveillance.",
     fullDesc: "Hassle-free parking right at D'Metro Hotel premises. Dedicated guest parking bays with 24/7 CCTV recording and security personnel guard on duty.",
     iconName: "Car",
-    image: "/src/assets/images/parking_malaysian_1791284334795.jpg",
+    image: "/assets/images/parking_malaysian_1791284334795.jpg",
     hours: "24 / 7 Access",
     highlights: ["Monitored CCTV Security", "Convenient Hotel Access", "Complimentary for Hotel Guests"]
   },
@@ -164,7 +164,7 @@ export const FACILITIES_DATA: Facility[] = [
     shortDesc: "Warm Malaysian hospitality and round-the-clock check-in support.",
     fullDesc: "Our dedicated multilingual reception team is ready at any time of day or night to assist with check-in, local guidance, taxi bookings, and guest requests.",
     iconName: "Clock",
-    image: "/src/assets/images/reception_malaysian_1791284325642.jpg",
+    image: "/assets/images/reception_malaysian_1791284325642.jpg",
     hours: "24 Hours Daily",
     highlights: ["Express Check-In / Check-Out", "Luggage Storage Service", "Taxi & E-Hailing Support"]
   },
@@ -174,7 +174,7 @@ export const FACILITIES_DATA: Facility[] = [
     shortDesc: "Pristine hygiene standards with daily room refresh and dry cleaning.",
     fullDesc: "Enjoy crisp fresh linens, sanitized surfaces, and meticulous room care every single day. Express laundry and ironing services available upon request.",
     iconName: "Sparkles",
-    image: "/src/assets/images/room_deluxe_malaysian_1791284144660.jpg",
+    image: "/assets/images/room_deluxe_malaysian_1791284144660.jpg",
     hours: "8:00 AM – 6:00 PM",
     highlights: ["Sanitized Linen & Towels", "Daily Turn-down Service", "Express Laundry & Pressing"]
   },
@@ -184,7 +184,7 @@ export const FACILITIES_DATA: Facility[] = [
     shortDesc: "Delectable local Malaysian favorites, gourmet coffee, and light meals.",
     fullDesc: "Indulge in authentic Malaysian breakfast spread including Nasi Lemak and Teh Tarik, fresh artisan coffee, and evening snacks served in our ambient dining lounge.",
     iconName: "Utensils",
-    image: "/src/assets/images/malaysian_dining_cafe_1791284133710.jpg",
+    image: "/assets/images/malaysian_dining_cafe_1791284133710.jpg",
     hours: "7:00 AM – 10:30 PM",
     highlights: ["Gourmet Nasi Lemak & Local Favorites", "Artisan Coffee & Teh Tarik Bar", "In-Room Dining Delivery"]
   },
@@ -194,7 +194,7 @@ export const FACILITIES_DATA: Facility[] = [
     shortDesc: "Private meeting corner equipped with high-speed printing & wireless facilities.",
     fullDesc: "Equipped with computer terminals, laser printing, scanning, and quiet workspace for corporate travelers visiting Shah Alam business districts.",
     iconName: "Briefcase",
-    image: "/src/assets/images/business_malaysian_1791284344921.jpg",
+    image: "/assets/images/business_malaysian_1791284344921.jpg",
     hours: "7:00 AM – 11:00 PM",
     highlights: ["Laser Printing & Scanning", "Quiet Workspace Desk", "High-speed Ethernet Access"]
   }
@@ -205,62 +205,62 @@ export const GALLERY_IMAGES = [
     id: "hero-ext",
     title: "D'Metro Hotel Exterior at Dusk",
     subtitle: "Seksyen 19, Shah Alam, Selangor",
-    image: "/src/assets/images/hero_dmetro_malaysian_1791284105390.jpg",
+    image: "/assets/images/hero_dmetro_malaysian_1791284105390.jpg",
     category: "Exterior & Architecture"
   },
   {
     id: "lobby-rec",
     title: "Reception Lounge & Warm Hospitality",
     subtitle: "24-Hour Concierge Desk with Fresh Orchids",
-    image: "/src/assets/images/reception_malaysian_1791284325642.jpg",
+    image: "/assets/images/reception_malaysian_1791284325642.jpg",
     category: "Lobby & Lounge"
   },
   {
     id: "dining-nasi-lemak",
     title: "D'Metro Cafe Gourmet Nasi Lemak Spread",
     subtitle: "Authentic Malaysian Breakfast & Teh Tarik",
-    image: "/src/assets/images/malaysian_dining_cafe_1791284133710.jpg",
+    image: "/assets/images/malaysian_dining_cafe_1791284133710.jpg",
     category: "Dining & Cafe"
   },
   {
     id: "tea-lounge",
     title: "Malaysian Afternoon Tea & Kuih Lounge",
     subtitle: "Artisan Tea & Traditional Delicacies",
-    image: "/src/assets/images/malaysian_tea_lounge_1791284354755.jpg",
+    image: "/assets/images/malaysian_tea_lounge_1791284354755.jpg",
     category: "Dining & Cafe"
   },
   {
     id: "deluxe-room",
     title: "Deluxe King Room Interior",
     subtitle: "Plush King Bed with Ambient Golden Lighting",
-    image: "/src/assets/images/room_deluxe_malaysian_1791284144660.jpg",
+    image: "/assets/images/room_deluxe_malaysian_1791284144660.jpg",
     category: "Rooms & Suites"
   },
   {
     id: "exec-suite",
     title: "Executive Grand Suite Living Zone",
     subtitle: "Spacious Living Area with Velvet Sofa",
-    image: "/src/assets/images/room_executive_malaysian_1791284163283.jpg",
+    image: "/assets/images/room_executive_malaysian_1791284163283.jpg",
     category: "Rooms & Suites"
   },
   {
     id: "family-suite",
     title: "Royal Family Suite Double Queen Beds",
     subtitle: "Luxurious Space for Family Stays",
-    image: "/src/assets/images/room_family_malaysian_1791284314630.jpg",
+    image: "/assets/images/room_family_malaysian_1791284314630.jpg",
     category: "Rooms & Suites"
   },
   {
     id: "blue-mosque",
     title: "Sultan Salahuddin Abdul Aziz Shah Mosque",
     subtitle: "Famous Blue Mosque, 9 mins from D'Metro Hotel",
-    image: "/src/assets/images/shah_alam_landmark_1791284177008.jpg",
+    image: "/assets/images/shah_alam_landmark_1791284177008.jpg",
     category: "Shah Alam Attractions"
   }
 ];
 
 export const NEARBY_ATTRACTION_DATA = [
-  { name: "Sultan Salahuddin Abdul Aziz Shah Mosque (Blue Mosque)", distance: "4.8 km", time: "9 mins drive", desc: "Malaysia's magnificent iconic Islamic landmark.", image: "/src/assets/images/shah_alam_landmark_1791284177008.jpg" },
+  { name: "Sultan Salahuddin Abdul Aziz Shah Mosque (Blue Mosque)", distance: "4.8 km", time: "9 mins drive", desc: "Malaysia's magnificent iconic Islamic landmark.", image: "/assets/images/shah_alam_landmark_1791284177008.jpg" },
   { name: "KTM Shah Alam Train Station", distance: "1.2 km", time: "3 mins drive", desc: "Direct rail link to KL Sentral and Klang." },
   { name: "AEON Mall Shah Alam (Seksyen 13)", distance: "3.5 km", time: "7 mins drive", desc: "Premier shopping, dining & cinema complex." },
   { name: "SACC Mall & Convention Centre", distance: "4.2 km", time: "8 mins drive", desc: "Major exhibition hub and shopping venue." },
@@ -273,31 +273,31 @@ export const WHY_CHOOSE_US = [
     title: "Comfortable Accommodation",
     desc: "Ergonomically designed luxury beds, soundproof windows, and ambient lighting guarantee restful nights.",
     icon: "Bed",
-    image: "/src/assets/images/room_executive_malaysian_1791284163283.jpg"
+    image: "/assets/images/room_executive_malaysian_1791284163283.jpg"
   },
   {
     title: "Convenient Shah Alam Location",
     desc: "Situated right in Seksyen 19, within minutes of major highways (ELITE, KESAS, Federal Highway) & public transport.",
     icon: "MapPin",
-    image: "/src/assets/images/shah_alam_landmark_1791284177008.jpg"
+    image: "/assets/images/shah_alam_landmark_1791284177008.jpg"
   },
   {
     title: "Professional Service",
     desc: "Attentive, friendly Malaysian hospitality team dedicated to making your stay effortless and memorable.",
     icon: "ShieldCheck",
-    image: "/src/assets/images/reception_malaysian_1791284325642.jpg"
+    image: "/assets/images/reception_malaysian_1791284325642.jpg"
   },
   {
     title: "Clean & Modern Rooms",
     desc: "Strict daily sanitation standards, immaculate bathrooms, and contemporary high-end room furnishings.",
     icon: "Sparkles",
-    image: "/src/assets/images/room_deluxe_malaysian_1791284144660.jpg"
+    image: "/assets/images/room_deluxe_malaysian_1791284144660.jpg"
   },
   {
     title: "Guest-Focused Experience",
     desc: "Flexible check-in options, direct WhatsApp line, and transparent pricing without hidden surprise fees.",
     icon: "HeartHandshake",
-    image: "/src/assets/images/malaysian_tea_lounge_1791284354755.jpg"
+    image: "/assets/images/malaysian_tea_lounge_1791284354755.jpg"
   }
 ];
 

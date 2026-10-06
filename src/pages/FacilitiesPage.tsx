@@ -91,7 +91,7 @@ export const FacilitiesPage: React.FC<FacilitiesPageProps> = ({ onOpenBooking })
 
         <div className="lg:col-span-5 relative rounded-2xl overflow-hidden border border-amber-500/30">
           <img
-            src="/src/assets/images/malaysian_dining_cafe_1791284133710.jpg"
+            src="/assets/images/malaysian_dining_cafe_1791284133710.jpg"
             alt="D'Metro Cafe Malaysian Dining & Nasi Lemak Spread"
             referrerPolicy="no-referrer"
             className="w-full h-64 sm:h-72 object-cover hover:scale-105 transition-transform duration-500"

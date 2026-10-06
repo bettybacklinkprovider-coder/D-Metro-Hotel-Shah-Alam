@@ -40,7 +40,7 @@ export const HomePage: React.FC<HomePageProps> = ({
         {/* Hero Background Image with Scrim */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_dmetro_malaysian_1791284105390.jpg"
+            src="/assets/images/hero_dmetro_malaysian_1791284105390.jpg"
             alt="D'Metro Hotel Luxury Malaysian Exterior"
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover scale-105 animate-pulse duration-[10000ms]"
@@ -149,7 +149,7 @@ export const HomePage: React.FC<HomePageProps> = ({
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-2xl overflow-hidden border border-amber-500/30 shadow-[0_0_30px_rgba(212,175,55,0.2)]">
               <img
-                src="/src/assets/images/dmetro_lobby_malaysian_1791284119512.jpg"
+                src="/assets/images/dmetro_lobby_malaysian_1791284119512.jpg"
                 alt="D'Metro Hotel Reception Lounge & Malaysian Hospitality"
                 referrerPolicy="no-referrer"
                 className="w-full h-[420px] object-cover hover:scale-105 transition-transform duration-500"
