@@ -1,0 +1,6 @@
+{
+  "name": "D'Metro Hotel Shah Alam",
+  "description": "Experience luxury hospitality at D'Metro Hotel in Shah Alam, Selangor, Malaysia. Premium rooms, world-class amenities, and elegant dark-purple golden comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
